@@ -7,7 +7,7 @@
 ### part 2: New Dataset
 
 ### part 3: New tasks on the new dataset
-**be asked to use [SemEval 2017 Task](https://competitions.codalab.org/competitions/16380)
+**be asked to use [SemEval 2017 Task](https://competitions.codalab.org/competitions/16380)**
 
 ### part 4: improve the Data preprocessing for these specific datasets, please find it by previous parts.
 **yes, I modify some coding at some cells, when you go through whole notebook will find out. especially, the term frequency matrix is a big sparse array and sum each term counting will consume much time. so I prefer to transpose matrix for easy.**
